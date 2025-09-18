@@ -4,11 +4,12 @@ Jupyter notebook exploring heart sound features
 
 ## Assets
 
-The sounds in `assets` directory come from https://physionet.org/content/challenge-2016/1.0.0/#files-panel
-- normal.wav = c0003.wav
-- MR.wav = c0002.wav
-- AS.wav = c0017.wav
-- mvp.wav = c0022.wav
+The sounds in `assets` directory come from https://deepblue.lib.umich.edu/handle/2027.42/120554
+- normal.mp3 = 01_apex_normal_s1_s2_supine_bell.mp3
+- s3.mp3 = 05_apex_s3_lld_bell.mp3
+- s4.mp3 = 03_apex_s4_lld_bell.mp3
+- early_diastolic_murmur.mp3 = 16_aortic_early_dias_mur_sitting_bell.mp3
+- mid_systolic_murmur.mp3 = 07_apex_mid_sys_mur_supine_bell.mp3
 
 ## Help
 
