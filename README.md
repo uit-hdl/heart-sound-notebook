@@ -4,12 +4,12 @@ Jupyter notebook exploring heart sound features.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uit-hdl/heart-sound-notebook/HEAD?urlpath=%2Fdoc%2Ftree%2Fbasic_features.ipynb)
 
-## Assets
-
-The sounds in `assets` directory come from https://deepblue.lib.umich.edu/handle/2027.42/120554
-
 
 ## Help
+
+Just clicking on the badge above launch a virtual environment to run the notebook.
+
+However, if you prefer to run it locally or in JupyterHub, keep reading.
 
 ### Starting Jupyter
 
