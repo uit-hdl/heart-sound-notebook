@@ -1,6 +1,8 @@
 # heart-sound-notebook
 
-Jupyter notebook exploring heart sound features
+Jupyter notebook exploring heart sound features.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uit-hdl/heart-sound-notebook/HEAD?urlpath=%2Fdoc%2Ftree%2Fbasic_features.ipynb)
 
 ## Assets
 
