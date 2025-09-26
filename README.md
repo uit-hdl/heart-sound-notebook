@@ -7,9 +7,9 @@ Jupyter notebook exploring heart sound features.
 
 ## Help
 
-Just clicking on the badge above launch a virtual environment to run the notebook.
+Just click on the badge above to launch to run the notebook in a virtual environment (may take some time to load).
 
-However, if you prefer to run it locally or in JupyterHub, keep reading.
+If you prefer to run locally or in JupyterHub, keep reading.
 
 ### Starting Jupyter
 
