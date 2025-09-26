@@ -7,7 +7,8 @@ Jupyter notebook exploring heart sound features.
 
 ## Help
 
-Just click on the badge above to launch to run the notebook in a virtual environment (may take some time to load).
+Just click on the badge above to launch to run the notebook in a virtual environment.
+Once the container is built and loaded (it may take a few minutes), click on the `Restart the kernel and run all the cells` to generate the plots.
 
 If you prefer to run locally or in JupyterHub, keep reading.
 
